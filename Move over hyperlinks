@@ -1,0 +1,9 @@
+// Move Over Hyperlinks - created by CSxo //
+
+p a {
+  -webkit-transition: ease-in-out 0.5s !important;
+  -moz-transition: ease-in-out 0.5s !important;
+  -ms-transition: ease-in-out 0.5s !important;
+  -o-transition: ease-in-out 0.5s !important;
+  transition: ease-in-out 0.5s !important;
+}
