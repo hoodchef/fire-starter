@@ -1,0 +1,4 @@
+// remove footer links underline - created by CSxo //
+
+footer .sqs-block-html a {background: none !important;
+text-decoration-line: unset !important}
