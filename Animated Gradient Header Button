@@ -1,0 +1,9 @@
+// Animated Gradient Header Button - Made by CS xo //
+
+.header-actions .btn, .header-menu .header-menu-cta a {
+  background: linear-gradient(-45deg, #659999, #d68040, #659999);
+  background-size: 400% !important;
+  -webkit-animation: Gradient 10s ease infinite !important;
+  -moz-animation: Gradient 10s ease infinite !important;
+  animation: Gradient 10s ease infinite !important;
+}
